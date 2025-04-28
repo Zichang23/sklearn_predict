@@ -9,3 +9,7 @@ This project aims to leverage supervised machine learning techniques to assist f
 
 * boxplot
 <img src="docs/boxplot.png" width="400" />
+
+## Supervised Learning Modeling
+
+In this project, we applied three supervised classification models: KNN, Decision Tree, and Logistic Regression. The data was scaled prior to model fitting, and cross-validation was utilized to evaluate each model's performance. Finally, we compared the accuracy of the three models. Overall, the Decision Tree model demonstrates the highest accuracy.
