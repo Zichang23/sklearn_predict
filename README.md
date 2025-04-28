@@ -4,3 +4,8 @@ This project aims to leverage supervised machine learning techniques to assist f
 
 ## Data Visualization
 
+* barplot
+<img src="docs/barplot.png" width="400" />
+
+* boxplot
+<img src="docs/boxplot.png" width="400" />
